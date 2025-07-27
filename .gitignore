@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js
+.next/
+out/
+.cache/
+
+# Build output
+dist/
+build/
+
+# Production
+.env
+.env.local
+.env.*.local
+
+# Misc
+.DS_Store
+*.pem
+*.log
+
+# VSCode
+.vscode/
+
+# Tailwind CSS
+*.css.map
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional OS files
+Thumbs.db
+ehthumbs.db
